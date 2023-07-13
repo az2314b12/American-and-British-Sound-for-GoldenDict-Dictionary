@@ -3,5 +3,5 @@ American Pronunciations Sound for GoldenDict Dictionary or some.
 
 
 How to use : 
-  American Pronunciations Sound for GoldenDict Dictionary.
-  Unzip and Add the path of the folder to your Sound Dictionaries on the GoldenDict. 
+  1 - Download the Zip file.
+  2 - Unzip and Add the path of the folder to your Sound Dictionaries on the GoldenDict. 
